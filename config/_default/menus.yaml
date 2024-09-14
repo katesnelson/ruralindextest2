@@ -19,6 +19,13 @@ main:
     url: "/doc/SchoolDistrictCarr.html"
     weight: 60
     parent: Data Description
+  - name: Quick Download
+    url: 
+    weight: 70
+  - name: County .csv
+    url: "/uploads/county_carr_public_09132024.csv"
+    weight: 70
+    parent: Quick Download
   - name: Resources
     weight: 40
     hasChildren: true
