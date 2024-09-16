@@ -1,58 +1,51 @@
 ---
-# Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
+title: Kate Nelson
+role: Associate Professor, SCALes PI
+avatar_filename: avatar.jpg
+bio: My research interests include landscape diversity, agricultural adaptation,
+  strategic retreat, vulnerability assessment, and scaling relationships.
+interests:
+  - Adaptation
+  - Landscape Diversity
+  - Strategic Retreat
+  - Rural Sustainability
+  - Scaling Relationships
+social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=dhqh44YAAAAJ&hl=en
+  - display:
+      header: false
+    link: https://github.com/katesnelson
+    icon_pack: fab
+    icon: github
+  - display:
+      header: false
+    link: mailto:katherinenelson@missouri.edu
+    icon_pack: far
+    icon: envelope
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Social Networking
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Author's website URL
-website: ""
+  - name: University of Missouri
+    url: https://cafnr.missouri.edu/divisions/school-of-natural-resources/
+education:
+  courses:
+    - course: PhD Environmental Engineering
+      institution: Vanderbilt University
+      year: 2018
+    - course: MS Environmental Engineering
+      institution: Washington University in St. Louis
+      year: 2009
+    - course: BS Environmental Engineering
+      institution: University of Oklahoma
+      year: 2006
+email: ""
+superuser: true
+user_groups:
+  - Current Members
+highlight_name: false
 ---
+Katherine (Kate) Nelson is an associate professor of sustainability in the School of Natural Resources at the University of Missouri. Her research interests include landscape diversity, agricultural adaptation, strategic retreat, vulnerability assessment, and scaling relationships. She leads the SCALes lab, which examines aspects of community and agricultural landscape sustainability ranging from equity of strategic retreat policy implementation, to the relationship between crop diversity and crop yields, to rural sustainability assessment. See a recent CV [here](https://scales-mu.netlify.app/author/kate-nelson/KatherineNelsonCV_Public.pdf).
+
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
 distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
