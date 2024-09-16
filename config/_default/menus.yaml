@@ -19,6 +19,22 @@ main:
     url: "/doc/SchoolDistrictCarr.html"
     weight: 60
     parent: Data Description
+  - name: Schools
+    url: "/doc/SchoolDistrictCarr.html"
+    weight: 60
+    parent: Data Description
+  - name: ZIP Codes
+    url: "/doc/SchoolDistrictCarr.html"
+    weight: 60
+    parent: Data Description
+  - name: Tribal
+    url: "/doc/SchoolDistrictCarr.html"
+    weight: 60
+    parent: Data Description
+  - name: Tracts
+    url: "/doc/SchoolDistrictCarr.html"
+    weight: 60
+    parent: Data Description
   - name: Quick Download
     url: 
     weight: 70
