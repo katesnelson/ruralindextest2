@@ -7,7 +7,7 @@ main:
     url: /#top
     weight: 10
   - name: Team
-    url: /authors
+    url: /people
     weight: 20
   - name: Solutions
     url: /#solutions
