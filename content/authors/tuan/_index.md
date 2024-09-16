@@ -52,6 +52,9 @@ highlight_name: true
 
 # Author's website URL
 website: ""
+
+user_groups:
+  - Current Members
 ---
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
