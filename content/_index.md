@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Community Assets and Relative Rurality (CARR)
+      text: 🧱 Data Downloads and Information  🧱
       primary_action:
-        text: Get Started
+        text: Explore the Data
         url: https://hugoblox.com/templates/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: About the Data
         url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: "About the index."
         link:
           text: "Read more"
           url: "/blog/"
