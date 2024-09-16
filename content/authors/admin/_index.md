@@ -45,8 +45,3 @@ user_groups:
 highlight_name: false
 ---
 Katherine (Kate) Nelson is an associate professor of sustainability in the School of Natural Resources at the University of Missouri. Her research interests include landscape diversity, agricultural adaptation, strategic retreat, vulnerability assessment, and scaling relationships. She leads the SCALes lab, which examines aspects of community and agricultural landscape sustainability ranging from equity of strategic retreat policy implementation, to the relationship between crop diversity and crop yields, to rural sustainability assessment. See a recent CV [here](https://scales-mu.netlify.app/author/kate-nelson/KatherineNelsonCV_Public.pdf).
-
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
