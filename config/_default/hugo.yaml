@@ -58,7 +58,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/people/:slug/'
+  authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
 disableAliases: true
@@ -74,6 +74,7 @@ taxonomies:
   tag: tags
   category: categories
   author: authors
+  - <tuan>
 markup:
   _merge: deep
   highlight:
