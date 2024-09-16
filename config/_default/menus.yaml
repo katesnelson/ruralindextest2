@@ -42,6 +42,22 @@ main:
     url: "/doc/county_carr_public_09132024.csv"
     weight: 70
     parent: Quick Download
+  - name: Schools .csv
+    url: "/doc/county_carr_public_09132024.csv"
+    weight: 70
+    parent: Quick Download
+  - name: ZIP codes .csv
+    url: "/doc/county_carr_public_09132024.csv"
+    weight: 70
+    parent: Quick Download
+  - name: Tribal .csv
+    url: "/doc/county_carr_public_09132024.csv"
+    weight: 70
+    parent: Quick Download
+  - name: Tracts .csv
+    url: "/doc/county_carr_public_09132024.csv"
+    weight: 70
+    parent: Quick Download
   - name: Resources
     weight: 40
     hasChildren: true
