@@ -40,18 +40,15 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "Availability"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Denisty of services and amenities
+        - statistic: "Accessibility"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Distance to services and amenities
+        - statistic: "Relative Rurality"
           description: |
-            Discord community  
-            for support
+            Population density, landcover, remoteness
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
