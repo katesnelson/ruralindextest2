@@ -1,7 +1,5 @@
 ---
-# To publish author profile pages, remove all the `_build` and `cascade` settings below.
-
-
+# Files in this folder represent a Widget Page
+type: widget_page
 ---
-
 
