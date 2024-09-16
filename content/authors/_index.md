@@ -5,7 +5,6 @@ _build:
 cascade:
   _build:
     render: always
-    list: always
 
 ---
 
