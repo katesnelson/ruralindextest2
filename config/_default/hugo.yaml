@@ -74,7 +74,6 @@ taxonomies:
   tag: tags
   category: categories
   author: authors
-  - <tuan>
 markup:
   _merge: deep
   highlight:
